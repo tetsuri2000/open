@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QaPCqH7PHZVK6sP4nEyc-0" target="rQ5jN7HeV7pxCDGi3HHd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.8572235107422" y="129.85713958740234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QaPCqH7PHZVK6sP4nEyc-0" value="&lt;span id=&quot;docs-internal-guid-9d2fd4d1-7fff-10fc-8e14-6760496dac3f&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Add Park to list and View Parks rating&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="39" y="31" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPCqH7PHZVK6sP4nEyc-1" value="&lt;span id=&quot;docs-internal-guid-9d2fd4d1-7fff-10fc-8e14-6760496dac3f&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Reset to default rating. / Reset all configuration to default&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32" y="1202" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QaPCqH7PHZVK6sP4nEyc-2" target="rQ5jN7HeV7pxCDGi3HHd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPCqH7PHZVK6sP4nEyc-2" value="&lt;span id=&quot;docs-internal-guid-9d2fd4d1-7fff-10fc-8e14-6760496dac3f&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Configure rating thresholds&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="31" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPCqH7PHZVK6sP4nEyc-3" value="&lt;span id=&quot;docs-internal-guid-9d2fd4d1-7fff-10fc-8e14-6760496dac3f&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Schedule notification&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32" y="1268" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPCqH7PHZVK6sP4nEyc-4" value="&lt;span id=&quot;docs-internal-guid-9d2fd4d1-7fff-10fc-8e14-6760496dac3f&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;View Park location in Google Maps&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32" y="1333" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-2" target="rQ5jN7HeV7pxCDGi3HHd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-2" value="Navigate to Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115.49722351074219" y="152.99713958740233" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-3" target="rQ5jN7HeV7pxCDGi3HHd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-3" value="Click on &quot; + &quot; Icon" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115.49722351074217" y="292.99713958740233" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-5" target="rQ5jN7HeV7pxCDGi3HHd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-5" value="Select / Deslect the Parks you interest to view Rating" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115.49722351074217" y="432.99713958740233" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-7" target="rQ5jN7HeV7pxCDGi3HHd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-7" value="Click on &quot; X&quot; to close the pop out" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115.49722351074217" y="572.9971395874023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-9" value="Park Rating is displayed on the Right side of each park" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115.49722351074217" y="712.9971395874023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-11" target="rQ5jN7HeV7pxCDGi3HHd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-11" value="Navigate to Rating Config" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.5" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-13" target="rQ5jN7HeV7pxCDGi3HHd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-13" target="rQ5jN7HeV7pxCDGi3HHd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-13" target="rQ5jN7HeV7pxCDGi3HHd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-13" value="Click on either one of the categories" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.5" y="311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-15" target="rQ5jN7HeV7pxCDGi3HHd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-15" value="WEATHER FORECAST" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-17" target="rQ5jN7HeV7pxCDGi3HHd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-17" value="PSI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.5" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQ5jN7HeV7pxCDGi3HHd-19" target="rQ5jN7HeV7pxCDGi3HHd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-19" value="UVI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="636" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ5jN7HeV7pxCDGi3HHd-21" value="Drag the dot left/right to set the Rating for that Specific condition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.5" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
