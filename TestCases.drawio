@@ -113,33 +113,58 @@
         <mxCell id="Yfk5o4rKPHazW8h-ajkP-3" value="Select Parks to View Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-4" value="Select Parks to View Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="160" height="60" as="geometry" />
+        <mxCell id="pHw-yXaRrEQ8us5UMYSO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-4" target="Yfk5o4rKPHazW8h-ajkP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-5" value="Select Parks to View Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="160" height="60" as="geometry" />
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-4" value="No result returned" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-6" value="Select Parks to View Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="160" height="60" as="geometry" />
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-5" value="display result of the selected park&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(rating, forecast, PSI &amp;amp; UVI)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw-yXaRrEQ8us5UMYSO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-6" target="Yfk5o4rKPHazW8h-ajkP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-6" value="Apply rating threshold settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yfk5o4rKPHazW8h-ajkP-7" value="Select Parks to View Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-8" value="Is park being selected?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="160" height="60" as="geometry" />
+        <mxCell id="YOCZE2eZ9DZzpS9MVSAE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-8" target="Yfk5o4rKPHazW8h-ajkP-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-9">
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-8" value="Retrieve environmental data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-9" target="Yfk5o4rKPHazW8h-ajkP-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="410" as="targetPoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yfk5o4rKPHazW8h-ajkP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-9">
+        <mxCell id="Yfk5o4rKPHazW8h-ajkP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-9" target="Yfk5o4rKPHazW8h-ajkP-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="550" as="targetPoint" />
+            <mxPoint x="200" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yfk5o4rKPHazW8h-ajkP-9" value="Is park being selected?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="380" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YOCZE2eZ9DZzpS9MVSAE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yfk5o4rKPHazW8h-ajkP-7" target="Yfk5o4rKPHazW8h-ajkP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YOCZE2eZ9DZzpS9MVSAE-3" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YOCZE2eZ9DZzpS9MVSAE-4" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
