@@ -843,7 +843,7 @@
         <mxCell id="6602pMrsJZoMySAQRh0l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6602pMrsJZoMySAQRh0l-12" target="bkAcjGErxOZyLJTGep4O-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6602pMrsJZoMySAQRh0l-12" value="Click the button behind notification to activate/de-activate" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6602pMrsJZoMySAQRh0l-12" value="Click the switch on notification to activate/de-activate" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="1282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6602pMrsJZoMySAQRh0l-18" value="No result returned" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
